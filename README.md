@@ -43,7 +43,8 @@ The system will utilize EG3D or DECA (pretrained models for face reconstruction)
 •	AI-generated digital influencers & avatars.
 
 **Use Case Example**
-![image](https://github.com/user-attachments/assets/3a25c40f-4530-4de3-b67d-67ad1e6f1a9f)
+![image](https://github.com/user-attachments/assets/869692b2-21e2-4be1-ae89-4f7cab620fc5)
+
 
 **Which can be used to further 3-D print small sculptures like:**
 
